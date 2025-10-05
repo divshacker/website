@@ -1,0 +1,5 @@
+baseURL = 'https://divshacker.github.io'
+languageCode = 'en-us'
+title = 'Divyanshu Singh' 
+theme = "dario"
+
